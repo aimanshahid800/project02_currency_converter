@@ -1,0 +1,42 @@
+{
+  
+  "name": "project02_currency_converter",
+  
+  "version": "1.0.0",
+  
+  "main": "index.js",
+  
+  "type": "module",
+  
+  "scripts": {
+  
+    
+  "start": "node index.js",
+  
+    
+  "test": "echo \"Error: no test specified\" && exit 1"
+  
+  },
+  
+  "keywords": [],
+  
+  "author": "",
+  
+  "license": "ISC",
+  
+  "description": "",
+  
+  "dependencies": {
+  
+    
+  "inquirer": "^9.2.23"
+  
+  },
+  
+  "devDependencies": {
+  
+    
+  "@types/inquirer": "^9.0.7"
+  
+  }
+}
